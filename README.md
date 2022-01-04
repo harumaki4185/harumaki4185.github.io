@@ -1,13 +1,13 @@
 # [harumaki4185.github.io]
 ## HP
-<https://harumaki4185.GitHub.io/>  
-<https://www.harumaki4185.com/>  
+|<https://harumaki4185.GitHub.io/>  
+|<https://www.harumaki4185.com/>  
 
-### カスタムドメインについて  
+## カスタムドメインについて  
 お名前.comで1円で買ったドメインにcnameレコード登録してる  
 
 
-### 現在改装中  
+## 現在改装中  
 まじでcssむずい
 
 ## debパッケージについて  
