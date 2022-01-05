@@ -1,7 +1,7 @@
 # [harumaki4185.github.io]
 ## HP
-| <https://harumaki4185.GitHub.io/>  
-| <https://www.harumaki4185.com/>  
+> <https://harumaki4185.GitHub.io/>  
+> <https://www.harumaki4185.com/>  
 
 ## カスタムドメインについて  
 お名前.comで1円で買ったドメインにcnameレコード登録してる  
