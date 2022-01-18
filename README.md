@@ -1,7 +1,7 @@
 # [harumaki4185.github.io]
 ## HP
 > <https://harumaki4185.github.io/>  
-> <https://www.harumaki4185.com/>
+> <https://www.harumaki4185.com/>  
 > <http://harumaki4185.glitch.me/>  
 
 ## カスタムドメインについて  
