@@ -1,2 +1,2 @@
-# [harumaki4185.github.io]
-## HP
+# harumaki4185.github.io
+ホームページ
