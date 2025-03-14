@@ -1,9 +1,3 @@
-/**
- * Modern JavaScript for Harumaki4185's Portfolio
- * Author: Harumaki4185
- * Version: 1.0
- */
-
 (function() {
   'use strict';
 
