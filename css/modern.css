@@ -19,7 +19,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "TsukuGoPr5-R-Between2-Light", 'Poppins', sans-serif;
   line-height: 1.6;
   color: var(--text-color);
   background-color: #f9f9f9;
@@ -857,7 +857,7 @@ section {
   padding: 12px 15px;
   border: 1px solid #ddd;
   border-radius: 5px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "TsukuGoPr5-R-Between2-Light", 'Poppins', sans-serif;
   font-size: 1rem;
   transition: var(--transition);
 }
